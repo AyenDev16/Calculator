@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
+    cout << "CALCULATOR BY AYEN" << endl
+    << "--------------------------------"<< endl;
+
     int firstNumber, secondNumber, sumOfTwoNumbers, difOfTwoNumbers, prodOfTwoNumbers, quotientOfTwoNumbers, modOfTwoNumbers ;
     //int powOfFirstNumber;
 
